@@ -19,7 +19,6 @@ J'aime résoudre des problèmes complexes grâce à la data, collaborer en équi
   </tr>
 
   <tr>
-    <!-- DATA SCIENCE -->
     <td align="center" width="200">
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -50,6 +49,7 @@ J'aime résoudre des problèmes complexes grâce à la data, collaborer en équi
 
     <!-- WEB -->
     <td align="center" width="200">
+
       <a href="https://www.php.net" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
       </a><br>PHP
@@ -60,12 +60,23 @@ J'aime résoudre des problèmes complexes grâce à la data, collaborer en équi
       </a><br>Git
       <br><br>
 
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+      </a><br>Docker
+      <br><br>
+
+      <a href="https://kubernetes.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+      </a><br>Kubernetes
+      <br><br>
+
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
       </a><br>Linux
     </td>
   </tr>
 </table>
+
 
 ## 📬 Contact
 📧 deborah.guedj@reseau.eseo.fr 
